@@ -5,11 +5,11 @@
 # |___|  |_|  |_____||_|  |_||____/ 
 
 * Monster Candy
-* Croquet Roll
+* Croquet Roll 
 * Stick
-* Bandage 
-* Rock Candy 
-* Pumpkin Rings 
+ item_name_4, Bandage 
+ item_name_5, Rock Candy 
+ item_name_6, Pumpkin Rings 
  item_name_7, Spider Donut 
  item_name_8, Stoic Onion 
  item_name_9, Ghost Fruit 
@@ -371,11 +371,8 @@
  phonename_210b, Papyrus and Undyne 
  phonename_220, Dimensional Box A 
  phonename_221, Dimensional Box B 
- yes, Yes 
- no, No 
-    
-  \Y  
-  \p  
+# yes, Yes 
+# no, No 
    You bid a quiet farewell  to the \[I]. 
    You put the \[I]  on the ground and gave it a  little pat. 
    You threw the \[I]  on the ground like the piece  of trash it is. 
@@ -433,14 +430,14 @@
    The relaxing atmosphere  of this hotel... it fills  you with determination. 
    The air is filled with  the smell of ozone... it fills  you with determination. 
    Behind this door must be  the elevator to the King's  castle. 
-   You're filled with  determination. 
-   The smell of cobwebs fills  the air... 
-   You're filled with  determination. 
-   You leave the Quiche on the  ground and tell it you'll  be right back. 
-   Use the box?          Yes         No        
-   You have no items. You put a little time into  the box. 
-   You have no items. You put a little effort  into the box. 
-   You have no items. You put a little feeling  into the box.
+* You're filled with determination.
+* The smell of cobwebs fills the air... 
+* You're filled with determination. 
+* You leave the Quiche on the ground and tell it you'll be right back. 
+* Use the box? # Yes : No        
+* You have no items. You put a little time into the box. 
+* You have no items. You put a little effort into the box. 
+* You have no items. You put a little feeling into the box.
 
 #  ____  ___     _     _      ___    ____ 
 # |  _ \|_ _|   / \   | |    / _ \  / ___|
@@ -448,17 +445,18 @@
 # | |_| || |  / ___ \ | |___| |_| || |_| |
 # |____/|___|/_/   \_\|_____|\___/  \____|
 
-* Howdy! I'm FLOWEY!. FLOWEY the FLOWER! 
-* Hmmm...
-* You're new to the UNDERGROUND, aren'tcha? 
-* Golly, you must be so confused. 
-* Someone ought to teach you how things work around here!
+* toki a! mi kasi Flowey a! mi kasi jelo a!
+* nnn...
+* sina sin e lon ma anpa anu seme?
+* a! sina sona ala!
+* jan li pana sina e sona.
+
+# This one next!
 * I guess little old me will have to do.
-* Ready? Here we go! 
 
-# TORIEL
+* sina anu seme? o kama!
+* ni li nasin.
 
-* This way.
 * Welcome to your new home, innocent one. 
 * Allow me to educate you in the operation of the RUINS. 
 * The RUINS are full of  puzzles. 

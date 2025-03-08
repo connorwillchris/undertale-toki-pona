@@ -443,22 +443,25 @@ ds_map_add(global.text_data_en, "SCR_TEXT_277", "* You have no items^1.&* You pu
 ds_map_add(global.text_data_en, "SCR_TEXT_282", "  %%")
 
 /*
-  ____  ___     _     _      ___    ____ 
+  ____  ___     _     _      ___    ____
  |  _ \|_ _|   / \   | |    / _ \  / ___|
  | | | || |   / _ \  | |   | | | || |  _ 
  | |_| || |  / ___ \ | |___| |_| || |_| |
  |____/|___|/_/   \_\|_____|\___/  \____|
 */
 
-ds_map_add(global.text_data_en, "SCR_TEXT_291", "\W* toki a^2!&* mi kasi\Y FLOWEY\W!^2 &* mi \YKASI JELO\W!/")
+ds_map_add(global.text_data_en, "SCR_TEXT_291", "\W* toki a^2!&* mi kasi\Y FLOWEY\W a!^2 &* mi \YKASI JELO\W a!/")
 ds_map_add(global.text_data_en, "SCR_TEXT_292", "* nnn.../")
 ds_map_add(global.text_data_en, "SCR_TEXT_293", "* sina sin e lon&  MA ANPA^2 ala seme?/")
 ds_map_add(global.text_data_en, "SCR_TEXT_294", "* a!^1 sina sona ala!/")
-ds_map_add(global.text_data_en, "SCR_TEXT_295", "* Someone ought to teach&  you how things work&  around here!/")
+ds_map_add(global.text_data_en, "SCR_TEXT_295", "* jan li pana sina e&  sona./")
+
 ds_map_add(global.text_data_en, "SCR_TEXT_296", "* I guess little old me&  will have to do./")
-ds_map_add(global.text_data_en, "SCR_TEXT_297", "* sina ala seme^2?&* o kama!/%%")
+
+ds_map_add(global.text_data_en, "SCR_TEXT_297", "* sina anu seme^2?&* o kama!/%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_301", "\E2* ni li nasin./%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_302", "%%%")
+
 ds_map_add(global.text_data_en, "SCR_TEXT_306", "\E2* Welcome to your new&  home^1, innocent one./")
 ds_map_add(global.text_data_en, "SCR_TEXT_307", "* Allow me to educate you&  in the operation of the&  RUINS./%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_311", "\E2* The RUINS are full of&  puzzles./")
