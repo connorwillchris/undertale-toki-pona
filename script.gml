@@ -459,8 +459,7 @@ ds_map_add(global.text_data_en, "SCR_TEXT_296", "* ken la mi lili a ken pona e s
 ds_map_add(global.text_data_en, "SCR_TEXT_297", "* sina anu seme^2?&* o kama!/%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_301", "\E2* ni li nasin./%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_302", "%%%")
-ds_map_add(global.text_data_en, "SCR_TEXT_306", "\E2* ni li tomo sin sina& ^1jan lili./")
-
+ds_map_add(global.text_data_en, "SCR_TEXT_306", "\E2* ni li tomo sin sina& ^1e jan lili./")
 
 ds_map_add(global.text_data_en, "SCR_TEXT_307", "* Allow me to educate you&  in the operation of the&  RUINS./%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_311", "\E2* The RUINS are full of&  puzzles./")
