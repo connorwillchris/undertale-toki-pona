@@ -421,27 +421,27 @@
    The wind has stopped. You're filled with  determination... 
    Seeing such a strange  laboratory in a place like  this... 
    You're filled with  determination. 
-   The wooshing sound of steam  and cogs... it fills you  with determination. 
-   An ominous structure looms  in the distance... 
-   You're filled with  determination. 
-   Knowing the mouse might one  day hack the computerized  safe and get the cheese... 
-   It fills you with  determination. 
-   A huge structure lies north. You're filled with  determination. 
-   The relaxing atmosphere  of this hotel... it fills  you with determination. 
-   The air is filled with  the smell of ozone... it fills  you with determination. 
-   Behind this door must be  the elevator to the King's  castle. 
+   The wooshing sound of steam and cogs... it fills you with determination. 
+   An ominous structure looms in the distance...
+   You're filled with determination.
+   Knowing the mouse might one day hack the computerized safe and get the cheese...
+   It fills you with determination.
+   A huge structure lies north. You're filled with determination.
+   The relaxing atmosphere of this hotel... it fills you with determination.
+   The air is filled with the smell of ozone... it fills you with determination.
+   Behind this door must be the elevator to the King's castle.
 * You're filled with determination.
-* The smell of cobwebs fills the air... 
-* You're filled with determination. 
-* You leave the Quiche on the ground and tell it you'll be right back. 
-* Use the box? # Yes : No        
-* You have no items. You put a little time into the box. 
-* You have no items. You put a little effort into the box. 
+* The smell of cobwebs fills the air...
+* You're filled with determination.
+* You leave the Quiche on the ground and tell it you'll be right back.
+* Use the box? # Yes : No
+* You have no items. You put a little time into the box.
+* You have no items. You put a little effort into the box.
 * You have no items. You put a little feeling into the box.
 
-#  ____  ___     _     _      ___    ____ 
+#  ____  ___     _     _      ___    ____
 # |  _ \|_ _|   / \   | |    / _ \  / ___|
-# | | | || |   / _ \  | |   | | | || |  _ 
+# | | | || |   / _ \  | |   | | | || |  _
 # | |_| || |  / ___ \ | |___| |_| || |_| |
 # |____/|___|/_/   \_\|_____|\___/  \____|
 
@@ -450,11 +450,9 @@
 * sina sin e lon ma anpa anu seme?
 * a! sina sona ala!
 * jan li pana sina e sona.
-
-# This one next!
-* I guess little old me will have to do.
-
+* ken la mi lili a ken pona e sina.
 * sina anu seme? o kama!
+
 * ni li nasin.
 
 * Welcome to your new home, innocent one. 
