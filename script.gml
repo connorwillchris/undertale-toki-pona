@@ -450,16 +450,18 @@ ds_map_add(global.text_data_en, "SCR_TEXT_282", "  %%")
  |____/|___|/_/   \_\|_____|\___/  \____|
 */
 
-ds_map_add(global.text_data_en, "SCR_TEXT_291", "\W* toki a^2!&* mi kasi\Y Flowey\W a!^2 &* mi \Ykasi helo\W a!/")
+ds_map_add(global.text_data_en, "SCR_TEXT_291", "\W* toki a^2!&* mi kasi\Y Flowey\W a!^2 &* mi \Ykasi jelo\W a!/")
 ds_map_add(global.text_data_en, "SCR_TEXT_292", "* nnn.../")
 ds_map_add(global.text_data_en, "SCR_TEXT_293", "* sina sin e lon&  MA ANPA^2 ala seme?/")
 ds_map_add(global.text_data_en, "SCR_TEXT_294", "* a!^1 sina sona ala!/")
 ds_map_add(global.text_data_en, "SCR_TEXT_295", "* jan li pana sina e&  sona./")
-ds_map_add(global.text_data_en, "SCR_TEXT_296", "* ken la mi lili a ken pona e sina./")
+ds_map_add(global.text_data_en, "SCR_TEXT_296", "* mi lili li pana& sona e sina./")
 ds_map_add(global.text_data_en, "SCR_TEXT_297", "* sina anu seme^2?&* o kama!/%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_301", "\E2* ni li nasin./%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_302", "%%%")
-ds_map_add(global.text_data_en, "SCR_TEXT_306", "\E2* ni li tomo sin sina& ^1e jan lili./")
+ds_map_add(global.text_data_en, "SCR_TEXT_306", "\E2* ni li tomo sin sina& ^1 e jan lili./")
+
+
 
 ds_map_add(global.text_data_en, "SCR_TEXT_307", "* Allow me to educate you&  in the operation of the&  RUINS./%%")
 ds_map_add(global.text_data_en, "SCR_TEXT_311", "\E2* The RUINS are full of&  puzzles./")

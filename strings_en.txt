@@ -455,11 +455,9 @@
 * Someone ought to teach you how things work around here!
 * I guess little old me will have to do.
 * Ready? Here we go!
-
-# TORIEL
-
 * This way.
-* Welcome to your new home, innocent one. 
+* Welcome to your new home, innocent one.
+
 * Allow me to educate you in the operation of the RUINS. 
 * The RUINS are full of  puzzles. 
 * Ancient fusions between diversions and doorkeys. 

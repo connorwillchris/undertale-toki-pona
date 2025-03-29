@@ -450,14 +450,19 @@
 * sina sin e lon ma anpa anu seme?
 * a! sina sona ala!
 * jan li pana sina e sona.
-* ken la mi lili a ken pona e sina.
+* mi lili li pana sona e sina.
 * sina anu seme? o kama!
-
 * ni li nasin.
+* ni li tomo sin sina e jan lili.
 
-* Welcome to your new home, innocent one. 
-* Allow me to educate you in the operation of the RUINS. 
-* The RUINS are full of  puzzles. 
+# change this one!
+* mi pana sona e ma anpa.
+
+# ma anpa = underground
+# RUINS = ma anpa pi sin ala.
+
+* ma anpa li poki ali e musi sona.
+
 * Ancient fusions between diversions and doorkeys. 
 * One must solve them to move from room to room. 
 * Please adjust yourself to the sight of them. 
@@ -16265,8 +16270,8 @@
  mett_ratings_violence, Violence 
  mett_ratings_disappoint, Disappoint 
  mett_ratings_justice, Justice 
- mett_ratings_action, Action 
- mett_ratings_hyperaction, HyperAction 
+ mett_ratings_action, Action
+ mett_ratings_hyperaction, HyperAction
  mett_ratings_fashion, Fashion 
  mett_ratings_fetching, Fetching 
  mett_ratings_junkfood, EatingGarbage? 
