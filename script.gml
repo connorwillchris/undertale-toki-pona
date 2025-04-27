@@ -485,6 +485,9 @@ ds_map_add(global.text_data_en, "SCR_TEXT_352", "\E1* You do know which way&  le
 ds_map_add(global.text_data_en, "SCR_TEXT_357", "\E1* You are very curious,^1 &  are you not?/")
 ds_map_add(global.text_data_en, "SCR_TEXT_358", "\E1* Please understand.^2 & \E0I only want the best&  for you./%")
 ds_map_add(global.text_data_en, "SCR_TEXT_362", "\E0* Splendid!^2 &* I am proud of you,^1 &  little one./")
+
+// ended here!
+
 ds_map_add(global.text_data_en, "SCR_TEXT_363", "* Let us move to the&  next room./%")
 ds_map_add(global.text_data_en, "SCR_TEXT_367", "\E1* As a human living in&  the UNDERGROUND,^1 &  monsters may attack you./")
 ds_map_add(global.text_data_en, "SCR_TEXT_368", "\E2* You will need to be&  prepared for this&  situation./")
